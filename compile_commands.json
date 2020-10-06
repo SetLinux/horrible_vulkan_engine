@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_demo.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_draw.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_widgets.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui_impl_vulkan.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_impl_vulkan.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_impl_vulkan.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -g -o CMakeFiles/imgui.dir/imgui/imgui_impl_sdl.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_impl_sdl.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -g -o CMakeFiles/tinyobjloader.dir/tinyobjloader/tiny_obj_loader.cc.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader/tiny_obj_loader.cc",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader/tiny_obj_loader.cc"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/third_party",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -g -o CMakeFiles/vkbootstrap.dir/vkbootstrap/VkBootstrap.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap/VkBootstrap.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap/VkBootstrap.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/main.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/main.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/main.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/vk_engine.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/vk_engine.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/vk_engine.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/vk_initializers.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/vk_initializers.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/vk_initializers.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/VkBootstrap.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/VkBootstrap.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/VkBootstrap.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/vk_mem_alloc.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/vk_mem_alloc.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/vk_mem_alloc.cpp"
+},
+{
+  "directory": "/home/mohamedm/cpp_projects/vulkan_engine/build/src",
+  "command": "/usr/bin/c++  -I/home/mohamedm/cpp_projects/vulkan_engine/src -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vkbootstrap -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/vma -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/glm -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/tinyobjloader -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/imgui -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/SDL_PATH/include -I/include -I/home/mohamedm/cpp_projects/vulkan_engine/third_party/stb_image -g -std=gnu++17 -o CMakeFiles/vulkan_guide.dir/vk_buffers.cpp.o -c /home/mohamedm/cpp_projects/vulkan_engine/src/vk_buffers.cpp",
+  "file": "/home/mohamedm/cpp_projects/vulkan_engine/src/vk_buffers.cpp"
+}
+]
